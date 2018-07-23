@@ -1,8 +1,10 @@
 # greenBerry 
 A new one-line statement programming language, complete with classes, cli and file compatible
 
+![logo](docs/favicon.ico?raw=true "greenBerry")
+
 ## 🚩 contributing countries
-🇲🇺 | 🇲🇾 🇸🇮
+🇲🇺 🇲🇾 🇸🇮 🇰🇪
 
 ## 🔗 website
 https://abdur-rahmaanj.github.io/greenBerry/
@@ -11,13 +13,13 @@ https://abdur-rahmaanj.github.io/greenBerry/
 
 ### 🔧 REPL 
 
-just run greenBerry_REPL.py
+just run gb_repl.py
 
 ### 📁 .gb file
 
-write in main.gb and then save and run greenBerry_main.py
+write in main.gb and then save and run gb_main.py
 
 ### 🖥️ IDE
 
-run greenBerry_IDE.py write and run or load a .gb file !
+run gb_ide.py write and run or load a .gb file !
 
